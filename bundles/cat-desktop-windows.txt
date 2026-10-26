@@ -1,0 +1,4 @@
+# Categoria: desktop-windows
+# Gerado por scripts/build-catalog.py - não editar.
+build-exe-leve
+winforms-design

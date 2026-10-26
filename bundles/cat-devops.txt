@@ -1,0 +1,3 @@
+# Categoria: devops
+# Gerado por scripts/build-catalog.py - não editar.
+windows-service-nssm

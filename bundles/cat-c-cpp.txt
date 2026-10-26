@@ -1,0 +1,3 @@
+# Categoria: c-cpp
+# Gerado por scripts/build-catalog.py - não editar.
+c-windows-mingw-build

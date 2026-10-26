@@ -1,0 +1,4 @@
+# Categoria: integrations
+# Gerado por scripts/build-catalog.py - não editar.
+pesquisar-api-email
+provider-agentmail

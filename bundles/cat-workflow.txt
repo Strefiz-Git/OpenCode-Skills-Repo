@@ -1,0 +1,18 @@
+# Categoria: workflow
+# Gerado por scripts/build-catalog.py - não editar.
+agents-md
+automation-pipeline
+autonomous-workflow
+decide-without-asking
+ideias
+loop-recovery
+planning
+progress-tracking
+progresso
+project-bootstrap
+project-docs
+project-progress-tracker
+sessao-de-trabalho
+session-handoff
+thinking-levels
+todo

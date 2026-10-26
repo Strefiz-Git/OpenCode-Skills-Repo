@@ -1,0 +1,6 @@
+# Categoria: web
+# Gerado por scripts/build-catalog.py - não editar.
+flask-socketio-lan-app
+frontend
+novo-conversor
+sem-limites

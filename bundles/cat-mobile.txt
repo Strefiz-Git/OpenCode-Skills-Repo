@@ -1,0 +1,19 @@
+# Categoria: mobile
+# Gerado por scripts/build-catalog.py - não editar.
+android-alarms-notifications
+android-backup-restore
+android-compose-ui-design
+android-core-app-split
+android-daily-planner
+android-data-offline
+android-debugging-adb
+android-gradle-build
+android-hilt-di
+android-i18n-theme
+android-images-media
+android-maps-location
+android-recurring-events-dates
+android-release-security
+android-testing
+android-wardrobe-outfits
+kotlin-compose-android

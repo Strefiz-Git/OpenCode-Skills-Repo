@@ -1,0 +1,24 @@
+# Categoria: minecraft
+# Gerado por scripts/build-catalog.py - não editar.
+api-verification
+benchmark-optimization
+build-and-test
+crash-debugging
+dependency-check
+fabric-client-config-modmenu
+fabric-hud-overlay
+fabric-known-good-baseline
+fabric-loom-setup
+fabric-mod-setup
+fabric-optional-server-payload
+gradle-build-verify
+input-and-lwjgl
+mc-port-workflow
+minecraft-server-parallelism
+mixin-explosion
+mixin-migration
+mixin-stale-static-state-fix
+neoforge-kotlin-mod-setup
+render-gui-migration
+unit-testing-parity
+wavefront-algorithm

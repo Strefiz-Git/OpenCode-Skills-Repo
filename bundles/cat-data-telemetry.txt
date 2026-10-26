@@ -1,0 +1,3 @@
+# Categoria: data-telemetry
+# Gerado por scripts/build-catalog.py - não editar.
+jogos-e-capacidades

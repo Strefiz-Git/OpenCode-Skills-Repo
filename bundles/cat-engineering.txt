@@ -1,0 +1,20 @@
+# Categoria: engineering
+# Gerado por scripts/build-catalog.py - não editar.
+app-code-organizer
+code-documentation
+code-review
+codigo-modular
+debugging
+documentacao
+mesma-convencao
+performance
+project-folder-organizer
+project-structure
+readme
+refactoring-modular
+research-first
+reusable-modules
+security-review
+seguranca
+testes
+testing-verification

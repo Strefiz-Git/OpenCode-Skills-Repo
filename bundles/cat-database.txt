@@ -1,0 +1,3 @@
+# Categoria: database
+# Gerado por scripts/build-catalog.py - não editar.
+prisma-sqlite-bot-state

@@ -1,0 +1,13 @@
+# Categoria: git-release
+# Gerado por scripts/build-catalog.py - não editar.
+auto-commit
+auto-commit-powershell
+auto-commit-pt
+auto-push
+deploy
+git-auto-commit-push
+git-commit-workflow
+git-github
+git-workflow
+release-checklist
+release-github

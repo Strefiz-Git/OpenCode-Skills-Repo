@@ -1,0 +1,4 @@
+# Categoria: discord
+# Gerado por scripts/build-catalog.py - não editar.
+discord-music-bot-architecture
+discord-server-template-from-html

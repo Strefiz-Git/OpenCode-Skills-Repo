@@ -1,0 +1,4 @@
+# Categoria: design
+# Gerado por scripts/build-catalog.py - não editar.
+estilizacao
+ui-design

@@ -1,0 +1,3 @@
+# Categoria: python
+# Gerado por scripts/build-catalog.py - não editar.
+resilient-external-tool-runner

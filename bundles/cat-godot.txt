@@ -1,0 +1,4 @@
+# Categoria: godot
+# Gerado por scripts/build-catalog.py - não editar.
+godot-debug-console
+godotsteam-lobby-multiplayer

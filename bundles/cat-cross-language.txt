@@ -1,0 +1,3 @@
+# Categoria: cross-language
+# Gerado por scripts/build-catalog.py - não editar.
+multi-language-spec-parity
