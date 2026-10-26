@@ -1,0 +1,8 @@
+{
+  "enabled": "auto",
+  "push": false,
+  "minIntervalSeconds": 15,
+  "blockSecrets": true,
+  "skipBranches": [],
+  "message": "chore(wip): checkpoint"
+}
